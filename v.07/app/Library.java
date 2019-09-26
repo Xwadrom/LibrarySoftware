@@ -1,6 +1,6 @@
-package pl.javastart.library.app;
+package app;
 
-import pl.javastart.library.model.Book;
+import model.Book;
 
 public class Library {
 

@@ -1,8 +1,8 @@
-package pl.javastart.library.io;
+package io;
 
-import pl.javastart.library.model.Book;
-import pl.javastart.library.model.Magazine;
-import pl.javastart.library.model.Publication;
+import model.Book;
+import model.Magazine;
+import model.Publication;
 
 public class ConsolePrinter {
     public void printBooks(Publication[] publications) {

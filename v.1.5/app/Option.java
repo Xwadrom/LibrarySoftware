@@ -1,6 +1,6 @@
-package pl.javastart.library.app;
+package app;
 
-import pl.javastart.library.exception.NoSuchOptionException;
+import exception.NoSuchOptionException;
 
 enum Option {
     EXIT(0, "Wyjście z programu"),

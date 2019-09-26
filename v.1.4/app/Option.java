@@ -1,4 +1,4 @@
-package pl.javastart.library.app;
+package app;
 
 enum Option {
     EXIT(0, "Wyjście z programu"),

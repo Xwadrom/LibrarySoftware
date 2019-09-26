@@ -1,8 +1,8 @@
-package pl.javastart.library.app;
+package app;
 
-import pl.javastart.library.io.DataReader;
-import pl.javastart.library.model.Book;
-import pl.javastart.library.model.Library;
+import io.DataReader;
+import model.Book;
+import model.Library;
 
 public class LibraryControl {
     // zmienne do kontrolowania programu

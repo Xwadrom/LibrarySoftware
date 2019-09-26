@@ -1,4 +1,4 @@
-package pl.javastart.library.model;
+package model;
 
 public class Book {
     // Pola

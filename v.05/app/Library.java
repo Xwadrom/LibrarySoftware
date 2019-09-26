@@ -1,5 +1,5 @@
-package pl.javastart.library.app;
-import pl.javastart.library.model.Book;
+package app;
+import model.Book;
 
 public class Library {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package pl.javastart.library.io;
+package io;
 
-import pl.javastart.library.model.Book;
+import model.Book;
 
 import java.util.Scanner;
 

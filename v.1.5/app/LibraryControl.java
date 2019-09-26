@@ -1,12 +1,12 @@
-package pl.javastart.library.app;
+package app;
 
-import pl.javastart.library.exception.NoSuchOptionException;
-import pl.javastart.library.io.ConsolePrinter;
-import pl.javastart.library.io.DataReader;
-import pl.javastart.library.model.Book;
-import pl.javastart.library.model.Library;
-import pl.javastart.library.model.Magazine;
-import pl.javastart.library.model.Publication;
+import exception.NoSuchOptionException;
+import io.ConsolePrinter;
+import io.DataReader;
+import model.Book;
+import model.Library;
+import model.Magazine;
+import model.Publication;
 
 import java.util.InputMismatchException;
 
